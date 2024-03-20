@@ -14,4 +14,8 @@ Todo List App (JS)
    1. HTML
    2. CSS
 ## Link :
-   url : 
+   url : http://127.0.0.1:5500/index.html
+
+
+   ![image](https://github.com/BhavnaMogha/Todo-List-App/assets/82330563/7e8a745f-9bb2-4588-9902-85d76d89b1bc)
+
